@@ -53,8 +53,8 @@ Este valor representa o faturamento consolidado do período analisado, considera
 
 | Auto Renovação | Faturamento (R$) |
 |---------------|------------------|
-| Yes           | 1.537,00         |
-| No            | 2.034,00         |
+| Yes           |     747,00       |
+| No            |   2.824,00       |
 | **Total**     | **3.571,00**     |
 
 📌 **Análise:**  
