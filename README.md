@@ -130,6 +130,6 @@ O dashboard fornece uma visão clara do negócio, facilitando análises rápidas
 
 ---
 
-## 👤 Autor
+## 👤 John Peter Oyardo Manrique (Adaptação)
 
 Projeto desenvolvido para fins de **portfólio profissional**, **análise de dados** e **Business Intelligence**, com foco em aplicações práticas de Excel.
