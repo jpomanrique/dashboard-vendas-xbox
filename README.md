@@ -126,8 +126,7 @@ Esses insights podem apoiar decisões como:
 
 ## 🚀 Conclusão
 
-Este projeto demonstra como **dados de vendas podem ser transformados em informação estratégica**, mesmo utilizando ferramentas amplamente acessíveis como o Excel.  
-O dashboard fornece uma visão clara do negócio, facilitando **análises rápidas e embasadas**.
+Este projeto demonstra como **dados de vendas podem ser transformados em informação estratégica**, mesmo utilizando ferramentas amplamente acessíveis como o Excel. O dashboard fornece uma visão clara do negócio, facilitando **análises rápidas e embasadas**.
 
 ---
 
