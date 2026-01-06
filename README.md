@@ -40,12 +40,12 @@ O EA Play Season Pass apresentou faturamento total de R$ 990,00, concentrado exc
 
 O Minecraft Season Pass alcançou faturamento total de R$ 1.140,00, distribuído entre os planos Ultimate (R$ 660,00) e Standard (R$ 480,00), com ausência de vendas no plano Core. Tal distribuição indica maior aderência desse produto aos planos de maior valor agregado.
 
-### 1️⃣ Qual é o faturamento total de vendas considerando todas as assinaturas?
+### 1️⃣ Qual é o faturamento total considerando todas as assinaturas e produtos adicionais?
 
-✔️ **Faturamento Total Geral:**  
+✔️ **Faturamento TTotal Consolidado:**  
 **R$ 3.571,00**
 
-Este valor representa a soma de todas as vendas de assinaturas no período analisado, servindo como **indicador principal de desempenho financeiro**.
+Este valor representa o faturamento consolidado do período analisado, considerando conjuntamente as receitas provenientes das assinaturas e dos produtos adicionais (Season Passes), conforme apresentado nas tabelas analíticas do dashboard.
 
 ---
 
@@ -58,7 +58,7 @@ Este valor representa a soma de todas as vendas de assinaturas no período anali
 | **Total**     | **3.571,00**     |
 
 📌 **Análise:**  
-Embora a auto-renovação esteja associada à retenção de clientes, os dados indicam que **assinaturas sem auto-renovação geraram maior faturamento total**, sugerindo compras pontuais de maior valor ou upgrades de plano.
+Embora a auto-renovação esteja associada à retenção de clientes e à previsibilidade de receita, os dados consolidados indicam que as vendas sem auto-renovação concentraram maior faturamento total no período, sugerindo compras pontuais de maior valor ou aquisições associadas a produtos adicionais.
 
 ---
 
@@ -70,8 +70,7 @@ Embora a auto-renovação esteja associada à retenção de clientes, os dados i
 | Minecraft Season Pass | 1.800,00         |
 
 📌 **Análise:**  
-O **Minecraft Season Pass** apresentou maior faturamento no período, indicando maior popularidade ou melhor aceitação pelo público.
-
+O **Minecraft Season Pass** apresentou maior faturamento no período analisado, indicando maior aceitação pelo público ou maior volume de vendas em comparação ao EA Play Season Pass.
 ---
 
 ### 4️⃣ Como o faturamento se distribui entre os tipos de plano?
