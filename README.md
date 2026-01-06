@@ -5,6 +5,7 @@ Este projeto consiste no desenvolvimento de um Dashboard Analítico de Vendas de
 A solução foi construída a partir de dados estruturados de vendas, devidamente organizados e consolidados, com o objetivo de responder a perguntas de negócio claramente definidas, relacionadas ao desempenho financeiro dos planos, à influência do mecanismo de auto-renovação e à contribuição de produtos adicionais, como o EA Play Season Pass e o Minecraft Season Pass.
 
 O dashboard apresenta métricas agregadas de forma clara, objetiva e comparável, permitindo a análise do desempenho relativo entre os planos, a avaliação do impacto da auto-renovação na receita e a identificação dos produtos e planos mais relevantes para a geração de faturamento, fornecendo subsídios consistentes para análises gerenciais e estratégicas.
+
 ---
 
 ## 🎯 Objetivo do Projeto
