@@ -42,7 +42,7 @@ O Minecraft Season Pass alcançou faturamento total de R$ 1.140,00, distribuído
 
 ### 1️⃣ Qual é o faturamento total considerando todas as assinaturas e produtos adicionais?
 
-✔️ **Faturamento TTotal Consolidado:**  
+✔️ **Faturamento Total Consolidado:**  
 **R$ 3.571,00**
 
 Este valor representa o faturamento consolidado do período analisado, considerando conjuntamente as receitas provenientes das assinaturas e dos produtos adicionais (Season Passes), conforme apresentado nas tabelas analíticas do dashboard.
