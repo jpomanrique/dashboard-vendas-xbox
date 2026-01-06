@@ -82,35 +82,46 @@ O projeto utiliza conceitos de **Business Intelligence (BI)** para:
 
 > Receita concentrada nos planos de maior valor (Ultimate e Standard), indicando oportunidades de **upsell** e ajustes estratégicos no plano Core.
 
----
+## 📊 Interpretação Analítica dos Resultados
 
-## 📊 Insights e Conclusões
+Os resultados obtidos revelam uma predominância do plano Ultimate na composição do faturamento, tanto nas assinaturas quanto na comercialização de produtos adicionais, sugerindo maior valor percebido por parte dos clientes desse segmento. A elevada participação das assinaturas com auto-renovação reforça a importância de estratégias orientadas à retenção de clientes e à previsibilidade de receita.
 
-- **Plano Ultimate** é o mais estratégico para faturamento.  
-- Produtos de maior valor agregado concentram a receita.  
-- Auto-renovação é importante, mas não determina sozinho a receita.  
-- **Excel** permite análises robustas e visuais claros.  
+Adicionalmente, a concentração das vendas de Season Passes nos planos Ultimate e Standard indica oportunidades estratégicas para ações de upsell, bem como para a reavaliação do posicionamento e da proposta de valor do plano Core, cuja contribuição para a receita mostrou-se limitada no período analisado.
 
-**Aplicações práticas:**  
-- Ajustes de preço e planos  
-- Estratégias de retenção de clientes  
-- Foco em produtos premium  
-- Campanhas segmentadas  
+A análise permite concluir que:
 
----
+- Planos **Ultimate** são os mais estratégicos em termos de faturamento
+- Produtos com maior valor percebido concentram a receita
+- A auto-renovação não é o único fator determinante de receita
+- O Excel é suficiente para construir análises robustas e visuais claras
 
-## 🛠️ Ferramentas e Recursos
-
-- Microsoft Excel  
-- Tabelas e gráficos dinâmicos  
-- Slicers e segmentação de dados  
-- Conceitos de **Business Intelligence (BI)**  
+Esses insights podem apoiar decisões como:
+- Ajustes de preço
+- Estratégias de retenção
+- Foco em planos premium
+- Campanhas direcionadas por tipo de cliente
 
 ---
 
-## 👤 Autor
+## 🛠️ Tecnologias e Recursos Utilizados
 
-**John Peter Oyardo Manrique (Adaptação)**  
-jpomanrique@gmail.com  
+- **Microsoft Excel**
+- Tabelas Dinâmicas
+- Gráficos Dinâmicos
+- Segmentação de Dados (Slicers)
+- Consolidação e agregação de métricas
+- Conceitos de Business Intelligence (BI)
+
+---
+
+## 🚀 Conclusão
+
+Este projeto demonstra como dados de vendas podem ser transformados em **informação estratégica**, mesmo utilizando ferramentas amplamente acessíveis como o Excel.  
+O dashboard fornece uma visão clara do negócio, facilitando análises rápidas e embasadas.
+
+---
+
+## 👤 John Peter Oyardo Manrique (Adaptação)
+      jpomanrique@gmail.com
       
 Projeto desenvolvido para fins de **portfólio profissional**, **análise de dados** e **Business Intelligence**, com foco em aplicações práticas de Excel.
