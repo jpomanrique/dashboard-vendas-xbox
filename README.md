@@ -2,9 +2,9 @@
 
 Este projeto consiste no desenvolvimento de um Dashboard Analítico de Vendas de Assinaturas Xbox, direcionado à análise do faturamento e do comportamento dos clientes nos diferentes tipos de plano de assinatura (Core, Standard e Ultimate).
 
-A solução foi construída a partir de dados estruturados de vendas de assinaturas da plataforma Xbox, com o objetivo de responder algumas perguntas de negócio previamente definidas relacionadas ao desempenho financeiro dos planos de subscrição, à influência do mecanismo de auto-renovação e à contribuição de assinaturas adicionais, como o EA Play Season Pass e o Minecraft Season Pass.
+A solução foi construída a partir de dados estruturados de vendas de assinaturas da plataforma Xbox, organizados e consolidados com o objetivo de responder a perguntas de negócio previamente definidas, relacionadas ao desempenho financeiro dos planos de assinatura, à influência do mecanismo de auto-renovação e à contribuição de assinaturas adicionais, como o EA Play Season Pass e o Minecraft Season Pass.
 
-O dashboard apresenta métricas agregadas de forma clara, objetiva e comparável, permitindo a análise do desempenho relativo entre os planos, a avaliação do impacto da auto-renovação na receita e a identificação dos produtos e planos mais relevantes para a geração de faturamento, visando fornecer resultados consistentes para análises gerenciais e estratégicas.
+O dashboard apresenta métricas agregadas de forma clara, objetiva e comparável, permitindo a análise do desempenho relativo entre os planos, a avaliação do impacto da auto-renovação na receita e a identificação dos produtos e planos mais relevantes para a geração de faturamento, fornecendo subsídios consistentes para análises gerenciais e estratégicas.
 
 ---
 
