@@ -1,4 +1,4 @@
-# 🎮📊 Xbox Game Pass Subscriptions Sales Dashboard (Excel)
+# 🎮📊 Xbox Game Pass Subscriptions Sales Dashboard
 
 Este projeto consiste no desenvolvimento de um Dashboard Analítico de Vendas de Assinaturas Xbox, direcionado à análise do faturamento e do comportamento dos clientes nos diferentes tipos de plano de assinatura (Core, Standard e Ultimate).
 
