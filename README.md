@@ -70,8 +70,7 @@ Embora a auto-renovação esteja associada à retenção de clientes e à previs
 | Minecraft Season Pass | 1.800,00         |
 
 📌 **Análise:**  
-O **Minecraft Season Pass** apresentou maior faturamento no período analisado, indicando maior aceitação pelo público ou maior volume de vendas em comparação ao EA Play Season Pass.
----
+O **Minecraft Season Pass** apresentou maior faturamento no período analisado, indicando maior aceitação pelo público ou maior volume de vendas em comparação ao EA Play Season Pass.---
 
 ### 4️⃣ Como o faturamento se distribui entre os tipos de plano?
 
