@@ -10,17 +10,17 @@ O dashboard apresenta métricas agregadas de forma clara, objetiva e comparável
 
 ## 🎯 Objetivo do Projeto
 
-O objetivo do projeto é responder, de forma estruturada, às seguintes perguntas de negócio:
+O objetivo deste projeto é responder, de forma estruturada, às seguintes perguntas de negócio:
 
 Qual é o faturamento total das vendas de assinaturas, considerando a agregação dos planos Core, Standard e Ultimate?
 
-Como o faturamento dos planos se distribui entre assinaturas com auto-renovação e sem auto-renovação?
+Como o faturamento das assinaturas se distribui entre planos com auto-renovação e sem auto-renovação?
 
 Qual é o faturamento total do EA Play Season Pass, considerando sua distribuição entre os diferentes tipos de plano?
 
 Qual é o faturamento total do Minecraft Season Pass, considerando sua distribuição entre os diferentes tipos de plano?
 
-Temos usado ferramentas de Business Intelligence para:
+Para atender a esses objetivos, o projeto faz uso de conceitos e técnicas de Business Intelligence, com foco em:
 
 - Monitorar o **faturamento total de assinaturas**
 - Comparar diferentes **tipos de planos**
