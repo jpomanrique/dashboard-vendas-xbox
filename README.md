@@ -12,7 +12,7 @@ O dashboard apresenta métricas agregadas de forma clara, objetiva e comparável
 
 O objetivo deste projeto é responder, de forma estruturada, às seguintes perguntas de negócio:
 
-Qual é o faturamento total das vendas de assinaturas, considerando a agregação dos planos Core, Standard e Ultimate?
+Qual é o faturamento total das vendas de assinaturas no período trimestral de Xbox Game Pass, considerando a agregação dos planos Core, Standard e Ultimate?
 
 Como o faturamento das assinaturas se distribui entre planos com auto-renovação e sem auto-renovação?
 
@@ -32,7 +32,7 @@ Para atender a esses objetivos, o projeto faz uso de conceitos e técnicas de Bu
 
 ## 🧠 Perguntas de Negócio & Principais Resultados
 
-O faturamento total das vendas de assinaturas no período analisado foi de R$ 2.308,00, considerando a soma das receitas provenientes dos planos Core, Standard e Ultimate.
+O faturamento total das vendas de assinaturas no período trimestral de Xbox Game Pass foi de R$ 2.308,00, considerando a soma das receitas provenientes dos planos Core, Standard e Ultimate.
 
 Em relação à auto-renovação, observou-se que as assinaturas com esse recurso ativado foram responsáveis por R$ 1.502,00 do faturamento total, enquanto as assinaturas sem auto-renovação representaram R$ 806,00, evidenciando maior contribuição das assinaturas recorrentes para a estabilidade da receita.
 
@@ -40,12 +40,12 @@ O EA Play Season Pass apresentou faturamento total de R$ 990,00, concentrado exc
 
 O Minecraft Season Pass alcançou faturamento total de R$ 1.140,00, distribuído entre os planos Ultimate (R$ 660,00) e Standard (R$ 480,00), com ausência de vendas no plano Core. Tal distribuição indica maior aderência desse produto aos planos de maior valor agregado.
 
-### 1️⃣ Qual é o faturamento total considerando todas as assinaturas e produtos adicionais?
+### 1️⃣ Qual é o faturamento total considerando todas as assinaturas e produtos adicionais no periodo mensal?
 
 ✔️ **Faturamento Total Consolidado:**  
-**R$ 3.571,00**
+**R$ 6.721,00**
 
-Este valor representa o faturamento consolidado do período analisado, considerando conjuntamente as receitas provenientes das assinaturas e dos produtos adicionais (Season Passes), conforme apresentado nas tabelas analíticas do dashboard.
+Este valor representa o faturamento consolidado do período mensal, considerando conjuntamente as receita proveniente da assinaturas dos produtos adicionais (Play Season Pass) de R$ 1350,00 e (Minecraft Season Pass) de R$ 1800,00 conforme apresentado nas tabelas analíticas do dashboard.
 
 ---
 
